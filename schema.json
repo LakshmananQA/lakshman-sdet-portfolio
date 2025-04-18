@@ -1,0 +1,50 @@
+Module name: Admin Engine,
+
+1. In ths module should be available/display after complete the created app using creation engine and deploy the application,
+2. User can access the app aftre deployment complete,
+3. once navigate the Admin engine then Initaly the Login page display afer success login  the dashboard page display along with the menu's
+4. In the dashboard display the (Dashboard
+Welcome to the Admin Portal
+Total Users2, Active Users2, Total Roles12, 
+Quick Actions
+Create User)
+5. Roles menu->User navigate to the menu menu page then the list grid and add new button display,
+6. The add new button clicked then the (Role Name
+Parent Role *
+Select a parent role
+Select a parent role to create a hierarchy. This is required for all roles except the first one.
+Description
+Page Access
+Select All Pages
+View-Only All
+View, Create & Edit All
+View, Edit & Delete All
+Full Access All
+Clear All
+Page	View	Create	Edit	Delete	All
+Contact Us
+Contact Us
+Website
+Website
+) fiels should be display user can create the recod with give the values
+7. Once create the record then the record should be display in the list grid, 
+8. User can edit and delete the already created record.
+9. User menu->User navigate to the User menu page then the list grid and add new button display,
+10. The add new button clicked then the (Username
+Email
+Password
+User is active
+User is superuser, Roles-The roles values should be display when user created values in Roles menu) fiels should be display user can create the recod with give the values
+11. Once create the record then the record should be display in the list grid, 
+12. User can edit and delete the already created record
+
+13. Role Hirearichy menu-> User can create and edit the Hirearichy of the users
+14.Integration menu->User navigate to the Integration menu page then the list grid and add new button display,
+10. The add new button clicked then the (Basic Information
+Integration Name *, Integration Type *Select a type
+The type of service you want to integrate) fiels should be display user can create the recod with give the values
+11. Once create the record then the record should be display in the list grid, 
+12. User can edit and delete the already created record
+
+
+
